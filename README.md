@@ -1,4 +1,7 @@
 # Instagram Giveaways
+
+### About
+
 Tired of doing all the work to follow, like, and comment over and over when you see giveaway posts on Instagram? I want to help you make entering these giveaways autonomously. 
 
 **What do I gain from this**: better my programming skills in Python and learn basics of Selenium Webdriver
