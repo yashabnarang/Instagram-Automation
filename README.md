@@ -1,5 +1,8 @@
 # Instagram Giveaways
-Goal: To Make Entering Instagram Giveaways Autonomous and learn more about Selenium Automation
+Tired of doing all the work to follow, like, and comment over and over when you see giveaway posts on Instagram? I want to help you make entering these giveaways autonomously. 
+
+What do I gain from this: better my programming skills in Python and learn basics of Selenium Webdriver
+What you gain from this: my program aims to enter 5 giveaways in the time it takes for you to enter one giveaway manually, significantly increasing your chances at winning something nice for yourself.
 
 ### Initial Phase
 
