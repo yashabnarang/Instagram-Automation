@@ -16,6 +16,10 @@ Current Progress when Insta.py is run:
 * Go to the inputted giveaway link
 * Follow the user and like the post
 
+### Considerations
+
+Since using the Selenium route, I have found it rather slow for an implementation to do all the steps. If I can not get the speed up faster, I will consider switching my strategy up to a mobile app emulation route.
+
 ### Next Steps
 
 * Need to add an if statement to follow the user only if they are not already following.
